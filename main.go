@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/josjos7/pdf-tool/command"
+	"github.com/abe-ta/pdf-tool/command"
 	"github.com/urfave/cli"
 )
 
